@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="surface.cpp">
+      <Filter>template code</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>template code</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainData.cpp" />
+    <ClCompile Include="Terrain.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="PlayerBullet.cpp" />
+    <ClCompile Include="BulletHandler.cpp" />
+    <ClCompile Include="BackgroundCollision.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="EnemyShipRed.cpp" />
+    <ClCompile Include="AABB.cpp" />
+    <ClCompile Include="Collision.cpp" />
+    <ClCompile Include="CollisionHandler.cpp" />
+    <ClCompile Include="EnemyManager.cpp" />
+    <ClCompile Include="Animation.cpp" />
+    <ClCompile Include="Circle.cpp" />
+    <ClCompile Include="BaseObject.cpp" />
+    <ClCompile Include="Cell.cpp" />
+    <ClCompile Include="Grid.cpp" />
+    <ClCompile Include="EnemyBulletRed.cpp" />
+    <ClCompile Include="EnemyBulletRedManager.cpp" />
+    <ClCompile Include="GameState.cpp" />
+    <ClCompile Include="EnemyShipYellow.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game.h" />
+    <ClInclude Include="surface.h">
+      <Filter>template code</Filter>
+    </ClInclude>
+    <ClInclude Include="template.h">
+      <Filter>template code</Filter>
+    </ClInclude>
+    <ClInclude Include="precomp.h" />
+    <ClInclude Include="TerrainData.h" />
+    <ClInclude Include="Terrain.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="PlayerBullet.h" />
+    <ClInclude Include="BulletHandler.h" />
+    <ClInclude Include="BackgroundCollision.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="EnemyShipRed.h" />
+    <ClInclude Include="AABB.h" />
+    <ClInclude Include="Collision.h" />
+    <ClInclude Include="CollisionHandler.h" />
+    <ClInclude Include="EnemyManager.h" />
+    <ClInclude Include="Animation.h" />
+    <ClInclude Include="Circle.h" />
+    <ClInclude Include="BaseObject.h" />
+    <ClInclude Include="Cell.h" />
+    <ClInclude Include="Grid.h" />
+    <ClInclude Include="EnemyBulletRed.h" />
+    <ClInclude Include="EnemyBulletRedManager.h" />
+    <ClInclude Include="GameState.h" />
+    <ClInclude Include="EnemyShipYellow.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="template code">
+      <UniqueIdentifier>{bf32dd6e-4be7-4889-8ac6-49e7ee163c40}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="_readme.txt">
+      <Filter>template code</Filter>
+    </Text>
+    <Text Include="level2.txt" />
+  </ItemGroup>
+</Project>
