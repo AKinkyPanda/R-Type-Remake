@@ -1,0 +1,29 @@
+﻿  AABB.cpp
+  Animation.cpp
+  BackgroundCollision.cpp
+  BaseObject.cpp
+  BulletHandler.cpp
+  Cell.cpp
+D:\Perforce\Sava210254\Year 1\Block A\R-type\Cell.cpp(25,3): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Circle.cpp
+  Collision.cpp
+  CollisionHandler.cpp
+  Enemy.cpp
+  EnemyBulletRed.cpp
+  EnemyBulletRedManager.cpp
+  EnemyManager.cpp
+  EnemyShipRed.cpp
+  EnemyShipYellow.cpp
+  GameState.cpp
+  Grid.cpp
+  Player.cpp
+  PlayerBullet.cpp
+  Terrain.cpp
+  Generating Code...
+  Compiling...
+  TerrainData.cpp
+  game.cpp
+  surface.cpp
+  template.cpp
+  Generating Code...
+  tmpl_2019-08.vcxproj -> D:\Perforce\Sava210254\Year 1\Block A\R-type\tmpl_2019-08.exe
